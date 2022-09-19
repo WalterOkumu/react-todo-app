@@ -12,7 +12,7 @@
 
 ## Demo
 
-- You can view the demo link here - [Demo Link](https://WalterOkumu.github.io/react-todo-app)
+- You can view the demo link here - [Demo Link](https://okumu-react-todo-app.netlify.app)
 
 ## Getting Started
 
