@@ -10,6 +10,10 @@
 - Library - ReactJS
 - Technologies used - VSCode
 
+## Demo
+
+- You can view the demo link here - [Demo Link](https://WalterOkumu.github.io/react-todo-app)
+
 ## Getting Started
 
 ### To get a local copy up and running follow these simple steps
