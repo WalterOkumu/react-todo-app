@@ -1,6 +1,11 @@
 import { render } from '@testing-library/react';
-import App from './App';
+import { BrowserRouter } from 'react-router-dom';
+import ToDoContainer from './functionBased/components/ToDoContainer';
 
 test('renders learn react link', () => {
-  render(<App />);
+  render(
+    <BrowserRouter>
+      <ToDoContainer />
+    </BrowserRouter>,
+  );
 });
